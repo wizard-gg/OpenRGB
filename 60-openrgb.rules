@@ -208,6 +208,7 @@ SUBSYSTEMS=="usb", ATTR{idVendor}=="1b1c", ATTR{idProduct}=="0c23", TAG+="uacces
 #                                                               #
 #  Mousemats:                                                   #
 #       Corsair MM800 RGB Polaris                               #
+#       Corsair MM700 RGB                                       #
 #                                                               #
 #  Headset Stands:                                              #
 #       Corsair ST100                                           #
